@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/390/trunk/DatCC/src/ini_processors
+END
+IniReader.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/389/trunk/DatCC/src/ini_processors/IniReader.h
+END
+IniComparator.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/190/trunk/DatCC/src/ini_processors/IniComparator.cpp
+END
+IniWriter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/190/trunk/DatCC/src/ini_processors/IniWriter.cpp
+END
+IniComparator.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/387/trunk/DatCC/src/ini_processors/IniComparator.h
+END
+IniWriter.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/388/trunk/DatCC/src/ini_processors/IniWriter.h
+END
+IniReader.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/190/trunk/DatCC/src/ini_processors/IniReader.cpp
+END
+IniProcessor.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/390/trunk/DatCC/src/ini_processors/IniProcessor.h
+END
